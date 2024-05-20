@@ -1,0 +1,6 @@
+nginx:
+  image:
+    repository: timlinux/flask-hello-world
+    tag: latest
+  containerPort: 8080
+
